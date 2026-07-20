@@ -20,7 +20,7 @@ import cybersecurityImg from '../assets/home_cards_imgs/cybersecurity.jpg';
 import digitalAnalyticsImg from '../assets/home_cards_imgs/digital-analytics.jpg';
 import ieltsImg from '../assets/home_cards_imgs/ielts-img.jpg';
 import celpipImg from '../assets/home_cards_imgs/celpip-img.jpg';
-import uxuiImg from '../assets/home_cards_imgs/uxui-img.jpg';
+import uxuiImg from '../assets/home_cards_imgs/ux-ui.jpg';
 
 // Service Card Component
 const ServiceCard = ({ service, onWhatsApp, onPhoneCall, onRegister, onQuickEnquiry }) => {
